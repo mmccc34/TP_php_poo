@@ -36,7 +36,7 @@ Bienvenue dans mon TP PHP POO,
 - Ouvrir un terminal (CTRL+MAJ+ù)
 - Naviguer dans le répertoire racine du projet : TP_php_poo (celui qui contient le dossier 'src')
 - Lancer la commande 'composer update' dans le terminal
-- Lancer la commande 'php index.php'
+- Lancer la commande 'php index.php' dans le terminal
 
 
 // 2ème méthode Pour installer l'application ----Version GitHub-----
@@ -49,7 +49,7 @@ Bienvenue dans mon TP PHP POO,
 - Ouvrir un terminal (CTRL+MAJ+ù) 
 - Naviguer dans le répertoire racine du projet : TP_php_poo (celui qui contient le dossier 'src')
 - Lancer la commande 'composer update' dans le terminal
-- Lancer la commande 'php index.php'
+- Lancer la commande 'php index.php' dans le terminal
 
 
 
