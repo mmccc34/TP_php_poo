@@ -46,7 +46,7 @@ Bienvenue dans mon TP PHP POO,
 
 - Clonez le projet : https://github.com/mmccc34/TP_php_poo.git
 
-- Ouvrir un terminal (CTRL+MAJ+ù)
+- Ouvrir un terminal (CTRL+MAJ+ù) 
 - Naviguer dans le répertoire racine du projet : TP_php_poo (celui qui contient le dossier 'src')
 - Lancer la commande 'composer update' dans le terminal
 - Lancer la commande 'php index.php'
@@ -56,7 +56,8 @@ Bienvenue dans mon TP PHP POO,
 //Fonctionnalités attendues//
 
 Cette application aura les fonctionnalités suivantes :
-Au démarrage de l'application, vous serez invité à 
+
+Au démarrage de l'application, **_dans le terminal,_** vous serez invité à 
 - Entrer un nombre de cartes à définir
 - Entrer une question
 - Entrer sa réponse
