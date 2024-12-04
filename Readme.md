@@ -26,6 +26,32 @@
 
 Bienvenue dans mon TP PHP POO,
 
+// 1ère méthode Pour installer l'application ----Version Zip-----
+-----------------------------------------------------------------
+
+- Télécharger l'archive 'TP_php_poo.zip'
+- Extraire l'archive avec la commande 'Extraire Ici'
+- Clic Droit sur le dossier 'TP_php_poo' => 'ouvrir avec Code' (ou votre Editeur de code)
+
+- Ouvrir un terminal (CTRL+MAJ+ù)
+- Naviguer dans le répertoire racine du projet : TP_php_poo (celui qui contient le dossier 'src')
+- Lancer la commande 'composer update' dans le terminal
+- Lancer la commande 'php index.php'
+
+
+// 2ème méthode Pour installer l'application ----Version GitHub-----
+--------------------------------------------------------------------
+
+- Sur ce compte GitHub : https://github.com/mmccc34/TP_php_poo
+
+- Clonez le projet : https://github.com/mmccc34/TP_php_poo.git
+
+- Ouvrir un terminal (CTRL+MAJ+ù)
+- Naviguer dans le répertoire racine du projet : TP_php_poo (celui qui contient le dossier 'src')
+- Lancer la commande 'composer update' dans le terminal
+- Lancer la commande 'php index.php'
+
+
 
 //Fonctionnalités attendues//
 
@@ -36,36 +62,15 @@ Au démarrage de l'application, vous serez invité à
 - Entrer sa réponse
 
 Après la validation des differents champs,
-Le terminal affichera le listing de toutes les cartes (Numero de la carte, question et réponse)
+Le terminal affichera le listing de toutes les cartes (Numéro de la carte, question et réponse)
 
-
-// 1ère méthode Pour installer l'application ----Version Zip-----
------------------------------------------------------------------
-
-- Télécharger l'archive 'TP_php_poo.zip'
-- Extraire l'archive avec la commande 'Extraire Ici'
-- Clic Droit sur le dossier 'TP_php_poo' => 'ouvrir avec Code' (ou votre Editeur de code)
-- Ouvrir un terminal (CTRL+MAJ+ù)
-- Naviguer dans le répertoire racine du projet : TP_php_poo (celui qui contient le dossier 'src')
-- Lancer la commande 'composer update' dans le terminal
-- Lancer la commande 'php index.php'
-
-
-// 2ème méthode Pour installer l'application ----Version GitHub-----
---------------------------------------------------------------------
-
-
-
-
-
-Répondez aux questions dans le terminal :
-
-Conseil : A la première question : 'Combien de cartes voulez-vous ajouter ?'
+**Conseil** : 
+A la première question : 'Combien de cartes voulez-vous ajouter ?'
 Veuillez entrer un chiffre d'au moins '2' afin de bien vous rendre compte du fonctionnement de l'application.
 
 /////////////////////////////////////////
 
-Pour vous faciliter la vie, vous pouvez utiliser les questions/réponses suivantes pour répondre aux demandes :
+Pour vous faciliter la démarche, vous pouvez utiliser les questions/réponses suivantes en copier/coller pour répondre aux demandes :
 
 - Quelle est la couleur du cheval blanc d'Henry IV ?
 - Relisez votre question !!!
@@ -73,7 +78,11 @@ Pour vous faciliter la vie, vous pouvez utiliser les questions/réponses suivant
 - Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?
 - Parce que sinon ils tombent dans le bateau !
 
-////////////////////////////////////
+////////////////////////////////////////
+
+
+
+
 
 
 
